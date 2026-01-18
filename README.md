@@ -1,56 +1,63 @@
-<h1 align="center">👋 Olá, eu sou o Márcio Rodrigues (@marciordg)</h1>
+<h1 align="center">Oi, eu sou o Márcio Rodrigues 👋</h1>
+<h3 align="center">Full Stack Developer & Traffic Strategist | CEO @Nobrk</h3>
 
-Sou um profissional multidisciplinar que vive na interseção entre **Código, Design e Marketing**. 
-Atuo como Programador Full Stack, Designer e Gestor de Tráfego. Meu objetivo é construir soluções digitais que não sejam apenas funcionalmente robustas, mas também visualmente atraentes e estrategicamente eficazes para gerar resultados de negócio.
+<p align="center">
+  <a href="https://instagram.com/marciordg" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+   <a href="mailto:SEU-EMAIL@AQUI.COM">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</p>
+
+<p align="center">
+  <b>Não construo apenas páginas estéticas; entrego infraestrutura de vendas.</b>
+</p>
 
 ---
 
-* 🚀 **Cofundador da [Nobrk](["https://nobrk.com.br"])**: Ao lado do meu sócio TH, estamos construindo uma agência focada em facilitar o marketing e usar tecnologia e automações para impulsionar negócios.
-* 💡 **Foco Atual**: Estou mergulhado nos estudos de Marketing Digital e no desenvolvimento de automações para otimizar processos.
-* 🎯 **Filosofia**: Busco criar conteúdo e soluções que sejam descontraídas e didáticas. Acredito que o complexo pode (e deve) ser explicado de forma simples.
-* 🌍 **Localização**: Governador Valadares, MG - Brasil.
+### 🚀 Sobre Mim
 
-###
+Minha trajetória começou com **Python**, motivada pela paixão por automações, e evoluiu para o desenvolvimento Web Full Stack. Hoje, atuo na intersecção entre **código limpo** e **psicologia de vendas**.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+Meu foco é **Alta Performance**:
+* ⚡ **Tech:** Clean Code, Web Core Vitals, Acessibilidade e SEO Técnico.
+* 🧠 **Business:** Gestão de Tráfego (Ads), Otimização de Conversão (CRO) e ROI.
+
+> "Gosto de resolver problemas complexos e criar soluções que vendem."
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://x.com/devmarciordg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@rdg.marcio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/marciordg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/marcio-rdg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=dracula"/>
   </a>
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcio-rdg/marcio-rdg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcio-rdg/marcio-rdg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcio-rdg/marcio-rdg/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">
+  <i>Desenvolvido com foco em ROI e Café ☕</i>
+</p>
