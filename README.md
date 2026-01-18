@@ -47,17 +47,6 @@ Meu foco é **Alta Performance**:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
----
-
 <p align="center">
   <i>Desenvolvido com foco em ROI e Café ☕</i>
 </p>
