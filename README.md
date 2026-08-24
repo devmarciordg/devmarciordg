@@ -29,32 +29,32 @@
 
 ### `01 / MISSÃO`
 
-Não construo páginas estéticas — entrego **infraestrutura de vendas**. Comecei em **Python**, por causa de automações, e virei full stack na intersecção entre **código limpo** e **psicologia de compra**.
+Comecei em Python por causa de automações e acabei indo pra web full stack. O que eu entrego não é página bonita, é infraestrutura de vendas.
 
-A conta é simples: acima de 1s de carregamento, a conversão cai ~7% por segundo. Isso é dinheiro saindo do caixa enquanto o site "está bonito". E nota alta no PageSpeed não é o critério — o critério é conversão real.
+Acima de 1s de carregamento, a conversão cai cerca de 7% por segundo. Nota alta no PageSpeed também não resolve sozinha: o que eu meço é conversão real.
 
 ### `02 / SERVIÇOS`
 
 **01 · Engenharia Web**
-Infraestrutura própria em HTML5, SCSS e JS vanilla. Core Web Vitals extremos, rastreamento preciso e backend em API PHP headless — sem SaaS intermediário segurando seus dados.
+Infraestrutura própria em HTML5, SCSS e JS vanilla, com Core Web Vitals no verde e rastreamento preciso. O backend é uma API PHP headless minha, então nenhum SaaS intermediário fica com os seus dados.
 
 **02 · Performance & Escala**
-Otimização de velocidade em site existente (Shopify, WordPress — sem migração obrigatória), tráfego pago como complemento e tracking via Pixel/CAPI.
+Otimização de velocidade no site que você já tem, sem obrigar migração de plataforma (Shopify e WordPress inclusos). Faço também tracking via Pixel/CAPI e tráfego pago como complemento.
 
 ### `03 / DIRETRIZES DE ENGENHARIA`
 
 | | |
 | --- | --- |
 | **Velocidade** | `< 1s ou não conta`. Core Web Vitals no verde. |
-| **Dependência zero** | Sem bibliotecas de terceiros. HTML, SCSS e JS. |
+| **Dependência zero** | Nenhuma biblioteca de terceiros: só HTML, SCSS e JS. |
 | **Dados** | Rastreamento com `id`, `aria-label` e eventos nomeados. |
-| **Infraestrutura** | API PHP headless proprietária, sem intermediários. |
+| **Infraestrutura** | API PHP headless própria, sem intermediários. |
 
 ### `04 / COMO FUNCIONA`
 
 `Contato` → `Diagnóstico técnico do escopo` → `Desenvolvimento` → `Implementação`
 
-Sem tabela de preço fixa e sem prazo padrão: os dois saem do diagnóstico. Retorno em até 1 dia útil, direto comigo.
+Não tenho tabela de preço fixa nem prazo padrão, porque os dois saem do diagnóstico. Você fala comigo direto e eu respondo em até 1 dia útil.
 
 ### `05 / STACK`
 
@@ -72,12 +72,12 @@ Sem tabela de preço fixa e sem prazo padrão: os dois saem do diagnóstico. Ret
 
 ### `06 / FERRAMENTAS`
 
-**RDG-01 // Operador** — calculadora de custo de oportunidade que roda 100% no navegador: quanto a lentidão do seu site custa por mês. Perfis de e-commerce, clínica, B2B SaaS, infoproduto, imobiliária e advocacia.
+**RDG-01 // Operador** é uma calculadora de custo de oportunidade que roda inteira no navegador e estima quanto a lentidão do seu site custa por mês. Tem perfis prontos pra e-commerce, clínica, B2B SaaS, infoproduto, imobiliária e advocacia.
 → [marciordg.com](https://marciordg.com)
 
 ---
 
-<p align="center"><b>Seu site é lento e você não sabe quanto isso custa.</b><br>
+<p align="center"><b>Se o seu site é lento, esse prejuízo já está acontecendo.</b><br>
 <a href="https://wa.me/5533999486162">Quero parar de perder esse dinheiro →</a></p>
 
 <p align="center"><sub>MÁRCIO RDG · ENGENHARIA WEB · PERFORMANCE É RECEITA</sub></p>
